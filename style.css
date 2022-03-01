@@ -1,0 +1,98 @@
+*{
+    margin: 0%;
+}
+.col-md-12{
+    background-color:#7952b3;
+}
+.btn-primary{
+    background-color: #7952b3!important;
+}
+.raw{
+    overflow: hidden;
+}
+.icon{
+    width: 100px;
+    height: 30px;
+}
+.navbar-brand img{
+    width: 50px;
+    height: 35px;
+    margin-top: 0pxpx;
+ 
+}
+#image{
+    width: 457px;
+    margin-top: 70px;
+    max-width: 100%;
+    
+}
+#image1{
+    width: 200px;
+    margin-top: 10px;
+}
+#picture2{
+    margin-top: 150px;
+    width: 60px;
+    height: 60px;
+}
+.high1 {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #f8f9fa;
+    margin-top: 186px;
+    display: flex;
+}
+.high2{
+    background-color: #f8f9fa;
+    padding: 1rem;
+    display: flex;
+
+}
+.button-clipboard{
+    background-color: #7952b3;
+    position: absolute;
+    right: 7.65rem;
+    z-index: 10;
+    display: block;
+    padding: 0.25rem 0.5rem;
+    font-size: .65em;
+    color: #0d6efd;
+    background-color: #fff;
+    border: 1px solid;
+    border-radius: 0.25rem;
+}
+#picture3{
+    margin-top: 90px;
+    width: 60px;
+    height: 60px;
+}
+#picture4{
+    margin-top: 90px;
+    width: 60px;
+    height: 60px;
+}
+.pic1{
+    width: 550px;
+    height: 430px;
+    max-width: 100%;
+}
+#picture5{
+    margin-top: 90px;
+    width: 60px;
+    height: 60px;
+}
+#picture7{
+    width: 500px;
+    height: 500px;
+}
+.pic2{
+    width: 550px;
+    height: 430px;
+    max-width: 100%;
+
+}
+
+
+
+
+
